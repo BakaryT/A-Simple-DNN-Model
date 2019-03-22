@@ -1,6 +1,9 @@
 #By Bakary TRAORE
 #Project: https://github.com/aymericdamien/TensorFlow-Examples/
-
+#Modified version of:
+#A linear regression learning algorithm example using TensorFlow library.
+#Author: Aymeric Damien
+#Project: https://github.com/aymericdamien/TensorFlow-Examples/
 
 from __future__ import print_function
 
